@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TangSDR docs \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-28 13:04+0200\n"
+"POT-Creation-Date: 2025-09-28 13:46+0200\n"
 "PO-Revision-Date: 2025-09-28 13:10+0200\n"
 "Last-Translator: Nils Wenning <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -25,9 +25,81 @@ msgid "Welcome to TangSDR"
 msgstr "Willkommen bei TangSDR"
 
 #: ../../source/index.md:3
-msgid "TangSDR is a low-cost, FPGA-based Software Defined Radio platform."
-msgstr "TangSDR ist eine kostengünstige, FPGA-basierte Plattform für Software Defined Radio."
+msgid ""
+"Welcome to **TangSDR** – an open, low-cost **Software Defined Radio** "
+"project powered by FPGA.   The idea is simple: build a **stand-alone "
+"SDR** that can cover roughly **0.1–200 MHz** with about **2–3 MHz "
+"bandwidth**, without breaking the bank.   Target budget: **under €150** "
+"for the core hardware."
+msgstr ""
+"Willkommen bei **TangSDR** – einem offenen, kostengünstigen **Software Defined Radio**-Projekt auf FPGA-Basis. "
+"Die Idee ist einfach: ein **stand-alone SDR** bauen, das ungefähr **0,1–200 MHz** mit rund **2–3 MHz Bandbreite** abdeckt – "
+"und das Ganze ohne die Bank zu sprengen. Zielbudget: **unter 150 €** für die Kernhardware."
 
-#: ../../source/index.md:5
-msgid "This documentation is currently in English."
-msgstr "Diese Dokumentation ist derzeit auf Englisch verfügbar."
+#: ../../source/index.md:7
+msgid "Goals"
+msgstr "Ziele"
+
+#: ../../source/index.md:9
+msgid ""
+"**Open & Hackable** – all hardware, firmware and docs are free to study "
+"and modify."
+msgstr ""
+"**Offen & hackbar** – alle Hardware, Firmware und Dokumentation sind frei einsehbar und veränderbar."
+
+#: ../../source/index.md:10
+msgid ""
+"**Stand-alone** – with a display, audio codec and controls, no PC "
+"required."
+msgstr ""
+"**Eigenständig** – mit Display, Audio-Codec und Bedienelementen, kein PC erforderlich."
+
+#: ../../source/index.md:11
+msgid "**Affordable** – parts chosen with the ham hacker’s wallet in mind."
+msgstr ""
+"**Erschwinglich** – Bauteile ausgewählt mit Blick auf das Portemonnaie des Funkbastlers."
+
+#: ../../source/index.md:12
+msgid ""
+"**Educational** – a playground for learning FPGA design, RF frontends and"
+" SDR basics."
+msgstr ""
+"**Lehrreich** – ein Spielplatz zum Erlernen von FPGA-Design, HF-Frontends und SDR-Grundlagen."
+
+#: ../../source/index.md:14
+msgid "What’s inside?"
+msgstr "Was steckt drin?"
+
+#: ../../source/index.md:16
+msgid "**FPGA SoC:** Gowin Tang Nano 20K with LiteX + RISC-V"
+msgstr "**FPGA SoC:** Gowin Tang Nano 20K mit LiteX + RISC-V"
+
+#: ../../source/index.md:17
+msgid "**Display:** 4″ TFT with touch support"
+msgstr "**Display:** 4″ TFT mit Touch-Unterstützung"
+
+#: ../../source/index.md:22
+msgid ""
+"This is a work in progress, made for and with the ham community.   Feel "
+"free to follow along, share ideas, and join me on this journey."
+msgstr ""
+"Dies ist ein laufendes Projekt – gemacht für und mit der Amateurfunk-Community. "
+"Fühle dich eingeladen mitzumachen, Ideen zu teilen und mich auf dieser Reise zu begleiten."
+
+#: ../../source/index.md:25
+msgid "**73 DL3NW**"
+msgstr "**73 DL3NW**"
+
+#: ../../source/index.md:27
+msgid ""
+"💬 Got feedback or ideas?   [Open an issue on "
+"GitHub](https://github.com/N1RX/TangSDR-docs/issues)"
+msgstr ""
+"💬 Hast du Feedback oder Ideen?   [Eröffne ein Issue auf "
+"GitHub](https://github.com/N1RX/TangSDR-docs/issues)"
+
+#~ msgid "TangSDR is a low-cost, FPGA-based Software Defined Radio platform."
+#~ msgstr "TangSDR ist eine kostengünstige, FPGA-basierte Plattform für Software Defined Radio."
+
+#~ msgid "This documentation is currently in English."
+#~ msgstr "Diese Dokumentation ist derzeit auf Englisch verfügbar."
