@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Nils Wenning
+# This file is distributed under the same license as the TangSDR docs
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TangSDR docs \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-28 13:04+0200\n"
+"PO-Revision-Date: 2025-09-28 13:10+0200\n"
+"Last-Translator: Nils Wenning <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/index.md:1
+msgid "Welcome to TangSDR"
+msgstr "Willkommen bei TangSDR"
+
+#: ../../source/index.md:3
+msgid "TangSDR is a low-cost, FPGA-based Software Defined Radio platform."
+msgstr "TangSDR ist eine kostengünstige, FPGA-basierte Plattform für Software Defined Radio."
+
+#: ../../source/index.md:5
+msgid "This documentation is currently in English."
+msgstr "Diese Dokumentation ist derzeit auf Englisch verfügbar."

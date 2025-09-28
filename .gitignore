@@ -1,0 +1,55 @@
+# ------------------------------
+# Sphinx build output
+# ------------------------------
+_build/
+build/
+dist/
+doctrees/
+
+# ------------------------------
+# Python
+# ------------------------------
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ------------------------------
+# Babel / Übersetzungen
+# ------------------------------
+*.mo        # kompilierte Kataloge
+*.pot~      # Backup-Dateien
+*.po~       # Backup-Dateien
+
+# ------------------------------
+# OS / Editor junk
+# ------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Common editor swap/temp
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
+
+# ------------------------------
+# IDEs
+# ------------------------------
+# VS Code
+.vscode/
+
+# IntelliJ / PyCharm / IDEA
+.idea/
+*.iml
